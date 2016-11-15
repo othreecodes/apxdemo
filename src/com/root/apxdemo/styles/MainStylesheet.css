@@ -1,0 +1,40 @@
+/**
+ * genarated by APX file generation template
+ * File name: MainStylesheet.css
+ */
+.MainClass {
+
+    -fx-background-image: url(../resources/9.jpg);
+
+
+ 
+}
+
+ .label{
+        
+        -fx-text-fill: #ffffff;
+
+    }
+    
+    .loginbutton{
+        -fx-border-radius: 0px;
+        -fx-background-radius: 0px;
+        -fx-padding: 0px;
+        -fx-background-color: #ffffff;
+        -fx-text-fill: red;
+        
+    }
+    .loginbutton:hover{
+         
+        -fx-padding: 0px;
+        -fx-background-color: red;
+        -fx-text-fill: white;
+        
+    }
+    .loginbutton:pressed{
+         
+        -fx-padding: 5px;
+        -fx-background-color: #ff9999;
+        -fx-text-fill: red;
+        
+    }
