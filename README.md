@@ -8,7 +8,7 @@ A sample application using apx mvc library - https://github.com/othreecodes/APX
 
 ## What is This
 - This is a demo using apx library to create a beautiful desktop app. It follows the MVC standard of creating javafx projects.
-- This also includes a sample of how to use ORMlite to access mysql database. (Querying and Creating)
+- This also includes a sample of how to use ORMlite to access sqlite database. (Querying and Creating)
 
 
 ## Getting Started
