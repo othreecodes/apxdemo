@@ -1,0 +1,20 @@
+{
+"table":"user",
+"properties":{
+	"username":{
+	"type":"string",
+	"null":false,
+	"unique":true,
+	"description":"Username field"
+	},
+	"password":{
+	"type":"string",
+	"null":false,
+	"unique":false
+	}
+
+}
+
+
+
+}

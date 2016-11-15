@@ -1,0 +1,7 @@
+{ 
+"name": "apxdemo",
+"package": "com.root.apxdemo",
+"location": "/root/apxdemo/",
+"src": "/root/apxdemo/src/",
+"work": "/root/apxdemo/src/com/root/apxdemo/"
+}

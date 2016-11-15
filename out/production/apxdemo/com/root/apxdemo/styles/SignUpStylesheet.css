@@ -1,0 +1,40 @@
+/**
+ * genarated by APX file generation template
+ * File name: SignUpStylesheet.css
+ */
+.SignUpClass {
+
+    -fx-background-image: url(../resources/9.jpg);
+}
+
+.loginbutton{
+    -fx-border-radius: 0px;
+    -fx-background-radius: 0px;
+    -fx-padding: 0px;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: red;
+
+}
+
+.backbutton{
+    -fx-border-radius: 0px;
+    -fx-background-radius: 0px;
+    -fx-padding: 0px;
+    -fx-background-color: null;
+    -fx-text-fill: white;
+
+}
+.loginbutton:hover ,.backbutton:hover{
+
+    -fx-padding: 0px;
+    -fx-background-color: red;
+    -fx-text-fill: white;
+
+}
+.loginbutton:pressed, .backbutton:pressed{
+
+    -fx-padding: 5px;
+    -fx-background-color: #ff9999;
+    -fx-text-fill: red;
+
+}
